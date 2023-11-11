@@ -9,11 +9,20 @@ Multi Hotbar
 Thermal Dynamics
 Morph-o-tool
 SuperChocolateMaker
-
-
+Just/Had Enough Characters
+InvTweaks
+Custom Skin Loader
+Ore Excavation
+Wireless Pattern/Interface Terminal
 
 
 ========Removed========
 Little Tiles
 tombmanygraves
+BogoSorter
+TipTheScales
 
+
+========Other=======
+Modpack translations
+CHN Resource Pack
