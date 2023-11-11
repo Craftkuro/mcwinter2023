@@ -1,0 +1,19 @@
+========Added========
+ReAuth
+Optifine
+AE2 Stuff Special Edition
+Black Hole
+RFTools
+RFTools Control
+Multi Hotbar
+Thermal Dynamics
+Morph-o-tool
+SuperChocolateMaker
+
+
+
+
+========Removed========
+Little Tiles
+tombmanygraves
+
