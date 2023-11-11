@@ -16,7 +16,14 @@
       },
       "worldinfo_onetime": {
         "generatorName": "flat",
-        "generatorOptions": "3;minecraft:air;1;decoration"
+        "generatorOptions": "3;minecraft:air;1;decoration",
+        "GameRules": {
+          "mobGriefing": "false",
+          "keepInventory": "true",
+          "doWeatherCycle": "false",
+          "doMobSpawning": "false",
+          "doDaylightCycle": "false"
+        }
       }
     }
   ]
